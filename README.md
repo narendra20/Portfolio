@@ -36,21 +36,7 @@ An easy way to **build** you own personal web resume! 💪
 ### Add new Language
 1) **Create** a new language file in the folder `./locales` :
 - **eg.** : `fr.json`
-2) **Change** **i18n** configuration in the ***nuxt.config.js***, 
-```javascript
-i18n: {
-	locales: ['en', 'es', 'fr'],
-	defaultLocale:  'en',
-	vueI18n: {
-		fallbackLocale:  'en',
-		messages: {
-			en:  require('./locales/en.json'),
-			es:  require('./locales/es.json'),
-			fr:  require('./locales/fr.json')
-		}
-	}
-},
-```
+
 3) You can easily change the actual language by following way:
 ```html
 <div>
@@ -65,11 +51,3 @@ i18n: {
 - `$ npm run generate`
 2) All the **generated** code will be apear in the `./dist` folder.
 
-
-## Used Technologies/Tools 🔧🦾
-
-- [VueJs](https://vuejs.org/)
-- [Nuxt](https://nuxtjs.org/)
-- [i18n](https://nuxtjs.org/examples/i18n/)
-- [ESLint](https://eslint.org/) + [Prettier](https://prettier.io/)
-- [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
