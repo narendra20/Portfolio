@@ -1,0 +1,150 @@
+{
+  "links": {
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "skills": "Skills",
+    "interests": "Interests",
+    "projects": "Projects"
+  },
+  "personalInfo": {
+    "name": "Narendra",
+    "lastName": "Medisetti",
+    "subHeadingText": [
+      "Data Scientist",
+      "Full Stack Developer",
+      "Data Engineer",
+      "Data Analyst",
+      "Software Enginneer"
+    ],
+    "city": "Heidelberg",
+    "phoneNumber": "+49 15203100980",
+    "email": "medisettinarendra0604@gmail.com",
+    "linkedin": "",
+    "github": "",
+    "myDescription": "Passionate Data Science, making useful application using the latest technologies!"
+  },
+  "educationDegrees": {
+    "title": "Education 📕",
+    "degrees": [
+      {
+        "collage": "SRH Heidelberg University",
+        "name": "Big Data and Business Analytics ",
+        "itemList": ["Masters in Data Science"],
+        "startEndDate": "October 2018 - October 2020"
+      },
+      {
+        "collage": "Gitam University",
+        "name": "Information Technology",
+        "itemList": ["Bachelor of technology"],
+        "startEndDate": "July 2012 - April 2016"
+      }
+    ]
+  },
+  "workExperiences": {
+    "title": "Work Expecience 🔨",
+    "works": [
+      {
+        "position": "Python Developer",
+        "companie": "Appose GmbH",
+        "responsabilities": [
+          "Proficient in HTTP standards, API integrating, REST APIs and authentication, basics of building scalable solutions for Frontend.",
+          "In backend optimization SQL query for the heavy load parts of the relational database, which can improve web services user interfaces and ORMs library (SQLAlchemy).",
+          "Proficient expertise in backend services such as: Docker, Sql, Fastapi, GIT. Deploy, maintenance and testing environment on Google Cloud Platform virtual machine. Designing a Front-end developing pages using Vue, HTML, Java Script.",
+          "Familiar with developments tools and project management such as cross-system, source Controlling management (GIT), bugs Fixing in tight deadlines, troubleshooting, debug, implement (JIRA), Scrum, sprints, agile software development, DevOps and data migration. Cross-functional errors analysing, clean code, code review, test automation and enhancement for inclusion in future releases. continuous integration & continuous deployment using circleci.",
+          "Predictive Analytics : Machine Learning, NLP, AI.",
+          "Backend Developer: Python | R | Django | MYSQL | PostgreSQL | MongoDB.",
+          "Frontend Developer: VueJs | SASS | HTML | CSS | Javascript.",
+          "business intelligence: Tableau, Power Bi, MS Excel."
+        ],
+        "startEndDate": "March 2020 - October 2020"
+      },
+      {
+        "position": "Software Developer",
+        "companie": "Digikarft Technologies",
+        "responsabilities": [
+          "Describing a prototype or mock-ups of a data pipeline, addressing Data Ingestions, Data storage, transforming structured, semi-structured and unstructured data and data visualization.",
+          "Conducted effectively synthesize, and communicate through visualise, published financial data reports inquiries based on company wide data, advice on website and marketing metrics.",
+          "Handling and validation of data storage, data inconsistencies, aggregate data docker containerized, Experience in data models and data architect solutions to support internal initiative..",
+          "Building websites with Vuejs frameworks and libraries that supporting efficient dynamic web Application - e.g., Vue.js, Type scripting, SaaS, according to internal and external Administration.",
+          "Evaluate and advocate the use of various open-source technologies and third-party solution. Individual empowerment, continually improvement built into team culture and active participation in the teams meetings."
+        ],
+        "startEndDate": "July 2016 - January 2018"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills 🎯",
+    "iconsTitle": "Programming Languages & Tools",
+    "devIcons": [
+      "devicon-csharp-plain",
+      "devicon-javascript-plain",
+      "devicon-html5-plain-wordmark",
+      "devicon-css3-plain-wordmark",
+      "devicon-git-plain",
+      "devicon-nodejs-plain",
+      "devicon-bootstrap-plain",
+      "devicon-github-original",
+      "devicon-bitbucket-original-wordmark",
+      "devicon-dot-net-original-wordmark",
+      "devicon-jquery-plain-wordmark",
+      "devicon-linux-plain",
+      "devicon-windows8-original",
+      "devicon-illustrator-plain",
+      "devicon-photoshop-plain",
+      "devicon-visualstudio-plain",
+      "devicon-vuejs-plain",
+      "devicon-postgresql-plain",
+      "devicon-tableau-plain"
+    ],
+    "workflow": "Workflow",
+    "itemList": [
+      "Responsive Design & UX",
+      "Cross Browser Testing & Debugging",
+      "REST API building",
+      "Agile Development & Scrum",
+      "Team working",
+      "Design Patterns"
+    ]
+  },
+  "interests": {
+    "title": "Hobbies 😄",
+    "firstBlock": "Apart from being a  developer, I enjoy most of my time listening and playing music. I love playing piano and singing in my spare time!. 🎹🎵",
+    "secondBlock": "I spend a large amount of my free time exploring the latest technolgy advancements in the Data Science and backend technology development world and coding in my personal projects! 🙌👨‍💻"
+  },
+  "projects": {
+    "title": "Personal Projects 🦾🧠",
+    "projectsInfo": [
+      {
+        "name": "Model for determining the skill recommendation and pricing for individual skill profile of different industries",
+        "description": "Build a unified Architects for data acquisition from various job portals, data cleansing, data profiling, data mining, data exploration, data manipulation techniques using customized built functions and performance using ML algorithms such as linear and multivariate regressions, linear, statistical analysis and prediction modeling. Creation BI data applications that make data-driven decisions on each event as it enters the data pipelines based on rules discovered through machine learning. Develop Highly scale and sustainable architectures for the operation researching of complex data model. Supported in implementation in business intelligent solution for data driven requirements. ",
+        "image": "/images/mast.PNG",
+        "siteUrl": "https://github.com/narendra20"
+      },
+      {
+        "name": "Food classification using CNN and Capsule Network",
+        "description": "Improved the accuracy of an image classification or image processing on Yelp food datasets are implementing using convolutional neural network and capsule neural network. End-to-End Project in Cloud architect which are quality, maintain, consistency, security, efficiency, reliable, robust, secure and scalability, Continuous development, container technological in cloud infrastructure",
+        "image": "/images/clas.jpeg",
+        "siteUrl": "https://github.com/narendra20"
+      },
+      {
+        "name": "Data management and Preparation & cleaning",
+        "description": "Create an optimize ETL process framework for data transformation of large amount of data sources from e-commerce with more than 100 Features for customer products. Finding out customers sales, data structures, multidimensional data models, Snowflake schema or star schema and monitoring of ETL processes. Understanding business analyses, internal controls system to check data quality assurance, data-oriented, product management, completeness, correctness and designs of data flow diagrams, design thinking, data schemas design, data warehouse and visualized using modern data intelligence tools such as Tableau dashboards, Talend data prep and Excel reporting. Hands-on mentality in database programming like SQL queries, NoSQL and object-oriented programming languages.",
+        "image": "/images/data management.jpg",
+        "siteUrl": "https://github.com/narendra20"
+      },
+      {
+        "name": "Twitter data Analysis and Data Engineering",
+        "description": "Build an automated ETL pipelines transfer data integrated pipelines to handle real-time and batch streaming processing using Kafka, data pre-processing, aggregations, data normalization, data integration processes in database system like mongo dB, SQL. Proposed a comprehensive neural network model by incorporating users reviews and underlying event information into documentation level twitter sentiment classification using deep learning and machine learning. twitter data which learning models, data processing, distributed systems and parameter tunning using yielding the best classification accuracy.",
+        "image": "/images/twitter.png",
+        "siteUrl": "https://github.com/narendra20"
+      },
+      {
+        "name": "House sales Data Visualisation and storytelling using Tableau",
+        "description": "Design a dashboard that shows house sale trading in USA, show complex facts through visuals skills like construction of data reporting various house sale stakeholders, risk management, purchasing and develop in-depth data analytics, quantitative and qualitative analysis, pivots, heat maps, ad hoc analyze, Pivot Table and automation process Tableau visualization and data analysts tools. Building a scalable reproducible report, efficient, automating process, ML implementation. ",
+        "image": "/images/tableau.jpg",
+        "siteUrl": "https://github.com/narendra20"
+      }
+    ]
+  }
+}
